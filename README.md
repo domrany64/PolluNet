@@ -1,6 +1,7 @@
 # PolluNet
 
 **Project plan**
+
 **CS 510 – Explorations in data science**
 
 ### Paper topic
