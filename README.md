@@ -1,6 +1,6 @@
 # PolluNet
 
-**Portland state University**
+**Portland state University**<br/>
 **CS 510 – Explorations in data science**
 
 **Project plan**
