@@ -1,8 +1,9 @@
 # PolluNet
 
-**Project plan**
-
+**Portland state University**
 **CS 510 – Explorations in data science**
+
+**Project plan**
 
 ##### Paper topic
 With the ever-expanding use of machine learning models, concerns such as ethical and legal issues are vastly discussed in many places. But should we be apprehensive about the power consumption of the ML and pollution that it makes? This paper’s main topic is around the carbon impact of the ML model training.
