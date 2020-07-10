@@ -12,8 +12,8 @@ I would not create any ML code to measure the time and power consumption of it. 
 ##### Team structure
 This team consists of only one person which would be Damon Aliomrany. Therefore, all the tasks will be done by me.
 ##### Milestones
-1.	Research on the supporting articles.
-2.	Collect data from existing codes to estimate the power consumption and pollution of ML models.
-3.	Prepare a paper about the result of this research on how bad is the carbon impact of AI.
-4.	Research on other industries and compare the pollution they make to the AI field’s pollution.
-5.	Reveal the final observation in the final paper and presentation.
+- [ ]Research on the supporting articles.
+- [ ]Collect data from existing codes to estimate the power consumption and pollution of ML models.
+- [ ]Prepare a paper about the result of this research on how bad is the carbon impact of AI.
+- [ ]Research on other industries and compare the pollution they make to the AI field’s pollution.
+- [ ]Reveal the final observation in the final paper and presentation.
