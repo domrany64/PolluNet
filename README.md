@@ -1,10 +1,11 @@
 # PolluNet
 
-## Project plan
-## CS 510 – Explorations in data science
+** Project plan **
+** CS 510 – Explorations in data science **
+
 ### Paper topic
 With the ever-expanding use of machine learning models, concerns such as ethical and legal issues are vastly discussed in many places. But should we be apprehensive about the power consumption of the ML and pollution that it makes? This paper’s main topic is around the carbon impact of the ML model training.
-### Research planned
+### Research plan
 Initially, I will read the articles supporting that “the carbon impact of AI” is considerable. Afterward, I will research the carbon impact of other industries that are impacting our planet at the moment. Comparing the result of these two allows me to conclude whether the pollution made by AI is worrisome or not?
 I would not create any ML code to measure the time and power consumption of it. Instead, codes from other articles and their report on the power usage will be used. Subsequently, those numbers will be applied to have a rough estimation of how much energy will be consumed to train a sophisticated ML model.
 ### Team structure
